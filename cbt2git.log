@@ -1,8 +1,8 @@
-2025-03-28 17:13:23.251746 - Received CBT.V508.FILE016.PDS from FILE016.XMI 
-2025-03-28 17:13:23.256106 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/$$$$$DOC
-2025-03-28 17:13:23.260506 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/$$$#DATE
-2025-03-28 17:13:23.263820 - Found @.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/@
-2025-03-28 17:13:23.266727 - Found @FILE016.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/@FILE016
-2025-03-28 17:13:23.269143 - Found PDFXIT15.jcl (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/PDFXIT15
-2025-03-28 17:13:23.278155 - Found SWHJ2006.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/SWHJ2006
-2025-03-28 17:13:23.280500 - Found SWHUSER.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/SWHUSER
+2025-03-28 17:33:48.649204 - Received CBT.V508.FILE016.PDS from FILE016.XMI 
+2025-03-28 17:33:48.651171 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/$$$$$DOC
+2025-03-28 17:33:48.652713 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/$$$#DATE
+2025-03-28 17:33:48.653460 - Found @.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/@
+2025-03-28 17:33:48.654371 - Found @FILE016.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/@FILE016
+2025-03-28 17:33:48.655782 - Found PDFXIT15.jcl (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/PDFXIT15
+2025-03-28 17:33:48.657087 - Found SWHJ2006.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/SWHJ2006
+2025-03-28 17:33:48.658155 - Found SWHUSER.txt (text/plain) in CBT.V508.FILE016.PDS, moved to PDS/SWHUSER
